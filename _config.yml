@@ -1,15 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Amauri Bz
+description: 
+meta_description: "Amauri Bz"
 
 markdown: redcarpet
-highlighter: pygments
+pygments: true
+
+baseurl: http://amauribz.github.io
+
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+permalink: /:title
+
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'amauribz.github.io'
+author:         'Amauri Bz'
+
+
